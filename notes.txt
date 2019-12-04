@@ -1,0 +1,16 @@
+
+# Weather data:
+# https://www.wunderground.com/history
+
+# Data for world development indicators:
+# https://datacatalog.worldbank.org/dataset/world-development-indicators
+
+# Flight data:
+# https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236&DB_Short_Name=On-Time
+
+# Temperature data:
+# https://www.noaa.gov/
+
+# Data on US president speeches:
+# https://www.presidency.ucsb.edu/documents/presidential-documents-archive-guidebook/annual-messages-congress-the-state-the-union
+
